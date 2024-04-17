@@ -126,7 +126,7 @@ import os
 import re
 
 def clean_and_save_files():
-    sets = range(29,30)  # Loop from Set1 to Set45
+    sets = range(1,46)  # Loop from Set1 to Set45
 
     for set_num in sets:
         input_file_path = f'/Users/adrita/Desktop/ChatGptExplanation/Set{set_num}/response_final_3.txt'  # Replace with the path to your input files
