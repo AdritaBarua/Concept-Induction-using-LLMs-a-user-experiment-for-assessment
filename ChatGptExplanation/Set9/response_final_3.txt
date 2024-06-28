@@ -1,0 +1,7 @@
+1. Retail Store
+2. Clothing Store
+3. Shoe Store
+4. Handbag Store
+5. Apparel Store
+6. Footwear Store
+7. Fashion Store

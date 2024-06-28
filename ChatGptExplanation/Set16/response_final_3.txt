@@ -1,0 +1,7 @@
+1. Computer
+2. Desk
+3. Printer
+4. Keyboard
+5. Monitor
+6. Telephone
+7. Mouse

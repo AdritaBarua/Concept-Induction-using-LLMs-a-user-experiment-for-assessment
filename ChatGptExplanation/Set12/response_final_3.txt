@@ -1,0 +1,7 @@
+1. Street Light
+2. Mountain
+3. Fire Hydrant
+4. Bandstand
+5. Roof
+6. Fence
+7. Water

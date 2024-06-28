@@ -1,0 +1,7 @@
+1. Library
+2. Bookstore
+3. Study Room
+4. Office
+5. Classroom
+6. Reading Room
+7. Book Exhibition

@@ -1,0 +1,7 @@
+1. Flora
+2. Trunk
+3. Shrub
+4. Bush
+5. Rock
+6. Earth
+7. Snow

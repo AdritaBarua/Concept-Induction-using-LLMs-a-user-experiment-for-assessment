@@ -1,0 +1,7 @@
+1. Supermarket
+2. Grocery Store
+3. Shopping Centre
+4. Retail Store
+5. Cash Register
+6. Shopping Cart
+7. Produce Section

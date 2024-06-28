@@ -1,0 +1,7 @@
+1. Classroom
+2. Office
+3. Computer Lab
+4. Living Room
+5. Kitchen
+6. Bedroom
+7. Conference Room

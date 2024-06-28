@@ -1,0 +1,7 @@
+1. Outdoor scenery
+2. Street view
+3. Building exterior
+4. Roadside objects
+5. Natural elements
+6. Vehicle presence
+7. Sky view

@@ -1,0 +1,7 @@
+1. Buildings
+2. Cars/Automobiles
+3. Traffic lights
+4. Sidewalks/Pavements
+5. Street lights
+6. Signboards
+7. Trash cans/Waste bins

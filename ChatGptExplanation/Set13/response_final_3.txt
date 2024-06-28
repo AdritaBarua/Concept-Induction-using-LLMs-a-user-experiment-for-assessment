@@ -1,0 +1,7 @@
+1. Garage
+2. Car/Automobile
+3. Bicycle
+4. Outdoor/Backyard
+5. Storage/Toolbox
+6. Household Utilities (wall socket, electric outlet)
+7. Sports Equipment (skateboard, rackets)

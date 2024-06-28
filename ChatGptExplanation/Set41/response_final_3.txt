@@ -1,0 +1,7 @@
+1. Bakery Shop
+2. Pastry Display
+3. Bread Shelf
+4. Indoor Scene
+5. Cake Counter
+6. Bread Basket
+7. Food Showcase

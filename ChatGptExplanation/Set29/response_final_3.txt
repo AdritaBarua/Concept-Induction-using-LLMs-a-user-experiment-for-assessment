@@ -1,0 +1,7 @@
+1. Airplane
+2. Sculpture
+3. Tower
+4. Skeleton
+5. Monitors
+6. Signboard
+7. Fluorescent Tube

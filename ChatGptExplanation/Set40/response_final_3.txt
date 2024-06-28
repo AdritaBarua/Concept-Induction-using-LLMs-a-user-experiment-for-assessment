@@ -1,0 +1,7 @@
+1. Bar
+2. Beer Machine
+3. Billiard Table
+4. Chandelier
+5. Fire Extinguisher
+6. Pendant Lamp
+7. Refrigerator

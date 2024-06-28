@@ -1,0 +1,7 @@
+1. Lighthouse
+2. Beacon
+3. Pharos
+4. Beacon Light
+5. Wharf
+6. Pier
+7. Dock

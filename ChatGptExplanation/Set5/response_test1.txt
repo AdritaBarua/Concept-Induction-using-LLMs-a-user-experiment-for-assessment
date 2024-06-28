@@ -1,0 +1,7 @@
+1. Bathroom
+2. Bathtub
+3. Toilet
+4. Shower
+5. Sink
+6. Faucet
+7. Towel rack
