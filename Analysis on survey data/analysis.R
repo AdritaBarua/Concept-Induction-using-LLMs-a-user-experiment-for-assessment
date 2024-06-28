@@ -34,7 +34,7 @@ for (i in 1:45) {
   
   # Calculate wins and losses for HvE
   tryCatch({
-    HvE_wins <- sum(data[, paste0("Set", i, "_HvE")] == 56 & !is.na(data[, paste0("Set", i, "_HvE")]))
+    HvE_wins <- sum(data[, paste0("Set", i, "_HvE")] == 56 & !is.na(data[, paste0("Set", i, "_HvE")])) #56 indicates the first option was chosen and 57 indicates the second option was chosen 
     EvH_wins <- sum(data[, paste0("Set", i, "_HvE")] == 57 & !is.na(data[, paste0("Set", i, "_HvE")]))
   }, error = function(e) {
     cat("Error in processing Set", i, "for HvE:", e$message, "\n")
